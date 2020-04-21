@@ -5,7 +5,7 @@ Dangerous ⚠ Use it at your own risk !
 
 How to run ?
 ------
-- `git clone https://github.com/yinmo-public/Js-kicker`
+- `git clone https://github.com/mosnbw/kick
 - `cd Js-kicker && npm install`
 - `cd src`
 - `npm start`
@@ -19,6 +19,3 @@ How to run ?
 ----
 
 *Fork From* [here](https://github.com/rnjacky777/785)
-
-## Fix and upload by 
-[@author](https://line.me/ti/p/3eamxoks_T)
